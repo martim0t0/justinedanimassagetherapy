@@ -5,15 +5,11 @@
   align-items: center;
   border-bottom: 0px;
   background: $white-color;
-  background-image: linear-gradient(
-      rgba($white-color, 0.8),
-      rgba($primary-color, 0.8)
-    ),
-    url(./assets/backgroundtop.jpg);
+  background-image: url(./assets/backgroundtop.jpg);
   background-size: cover;
   background-position: top;
   font-weight: 400;
-  color: $dark-blue-text;
+  color: $white-color;
   padding: 0rem 5.6rem;
   margin-bottom: 0;
   top: 0;
